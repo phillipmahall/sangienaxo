@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaihokeu.kennyhknguyen.com/sitemap.xml
